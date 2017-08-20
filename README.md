@@ -14,4 +14,14 @@ If you like dark theme, It fits you well.
 
 I think it's so cool.
 
+### the theme on windows
+
+![](img/20170820092745.png)
+
+* add the ttf in HeyMo to your ttf library.
+
+* import the setting
+
+* restart IDE
+
 
